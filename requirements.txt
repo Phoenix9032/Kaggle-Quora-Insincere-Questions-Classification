@@ -20,3 +20,4 @@ gensim==3.7.1
 spacy==2.0.18
 sentencepiece==0.1.8
 unidecode==1.0.23
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
