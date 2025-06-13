@@ -9,7 +9,7 @@ pandas==0.23.4
 scikit-learn==0.20.2
 
 # Jupyter packages
-jupyterlab==0.35.4
+jupyterlab==3.6.8
 seaborn==0.9.0
 tqdm==4.31.1
 ipywidgets==7.4.2
@@ -20,3 +20,14 @@ gensim==3.7.1
 spacy==2.0.18
 sentencepiece==0.1.8
 unidecode==1.0.23
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
