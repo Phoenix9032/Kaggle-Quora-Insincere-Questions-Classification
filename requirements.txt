@@ -18,5 +18,5 @@ ipywidgets==7.4.2
 nltk==3.4
 gensim==3.7.1
 spacy==2.0.18
-sentencepiece==0.1.8
+sentencepiece==0.2.1
 unidecode==1.0.23
